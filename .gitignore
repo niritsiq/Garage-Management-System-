@@ -1,0 +1,43 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+TestResults/
+*.exe
+*.dll
+*.pdb
+*.app
+
+# VS Code settings
+.vscode/
+
+# Rider (JetBrains)
+.idea/
+*.sln.iml
+
+# NuGet packages
+packages/
+*.nupkg
+# Uncomment below if you have .zip exports
+*.zip
+
+# Auto-generated files
+*.generated.cs
+*_i.c
+*_p.c
+*_h.h
+
+# Database files
+*.db
+*.mdf
+*.ldf
+
+# Others
+*.log
